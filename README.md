@@ -1,5 +1,5 @@
 # UDPPinger
-This program: 
+This program: \r
 1. sends and receives datagram packets using UDP sockets
 2. sets a proper socket timeout
 
